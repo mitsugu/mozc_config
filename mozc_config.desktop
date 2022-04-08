@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=Mozc Config
+Name[ja]=Mozc 設定
+Comment=Configuration of Mozc
+Comment[ja]=Mozc の設定を行う
+GenericName=Mozc Config
+GenericName[ja]=Mozc 設定
+Exec=/usr/lib/mozc/mozc_tool --mode=config_dialog
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/icons/hicolor/scalable/status/mozc.svg
+Categories=Settings;
+NoDisplay=false
+StartupNotify=false
+

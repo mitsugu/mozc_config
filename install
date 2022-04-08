@@ -1,0 +1,9 @@
+#! /bin/sh
+
+# Desktop freeze measures at the start of rofi
+yay -S --rebuild rofi
+
+# install mozc_config.desktop and icon.svg
+sudo curl  -o /usr/share/applications/mozc_config.desktop
+sudo curl /google/icon.svg -o /usr/share/icons/hicolor/scalable/status/mozc.svg
+
