@@ -10,7 +10,7 @@ Exec=/usr/lib/mozc/mozc_tool --mode=config_dialog
 Terminal=false
 X-MultipleArgs=false
 Type=Application
-Icon=/usr/share/icons/hicolor/scalable/status/mozc.svg
+Icon=/usr/share/icons/hicolor/128x128/status/mozc.png
 Categories=Settings;
 NoDisplay=false
 StartupNotify=false
